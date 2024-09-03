@@ -1,10 +1,17 @@
+---
+layout: page
+title: Farez Vadsaria
+date: 2014-03-08 23:08
+author: farezv
+comments: true
+
+---			
+I’m a Senior Software Engineer with expertise in Node.js, TypeScript, Python, Lua, C#, PHP, and more.  I hold advanced degrees. that interfaces between linguistics and technology.
+* Neovim enthusiast since 2019. Oct. [arthurgehrke.dotfiles](https://github.com/arthurgehrke/.dotfiles),
+* 11 years of experience
+* Speak english, deutsch and portuguese
+
 ### Hi there 👋
-
-
-<!--
-**arthurgehrke/arthurgehrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
